@@ -20,4 +20,5 @@ git is the technology while github is a network service for its usage.
 2) commits file (CVS) vs commit whole project (git)
 
 ### Name known issues related to game engines (Unreal, Unity) and version control systems:
-TODO
+1) File size limitations
+2) Temporary files, hard to include all possible ones in gitignore.
